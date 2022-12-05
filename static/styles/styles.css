@@ -1,0 +1,153 @@
+.test {
+  border: 1px solid block;
+  background-color: firebrick;
+  color: orange;
+}
+
+.left {
+  margin-right: auto;
+}
+
+.right {
+  margin-left: auto;
+}
+
+.p-2 {
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+.sidebar {
+  height: 100%;
+  border-radius: 20px;
+  background-color: #ffffff;
+  padding: 20pt;
+  box-shadow: 0px 20px 100px #00000000;
+}
+
+.navigasi {
+  position: fixed;
+  bottom: 160pt;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  background-color: #ffffff;
+}
+
+.nav-item {
+  margin-top: 20pt;
+}
+
+.nav-link,
+a {
+  size: 32pt;
+  font-weight: 600;
+  color: rgba(106, 91, 225, 1);
+}
+.nav-link,
+i {
+  margin-right: 15pt;
+  color: rgba(106, 91, 225, 1);
+}
+
+.content {
+  background-color: #f5f7fb;
+}
+
+.container {
+  padding-bottom: 100pt;
+  min-height: 500pt;
+}
+
+.deteksi {
+  padding-top: 40pt;
+}
+
+.about {
+  padding-top: 35pt;
+}
+.desc {
+  align-items: center;
+  display: flex;
+  gap: 37px;
+  margin-top: 8px;
+}
+
+.card {
+  min-height: 225pt;
+}
+
+.card-inverse {
+  background-color: #ffffff;
+  border: 0pt;
+  padding: 15pt;
+  font-family: "Montserrat", sans-serif;
+}
+
+.card-title {
+  color: rgba(106, 91, 225, 1);
+  font-weight: 650;
+  margin-bottom: 15pt;
+}
+
+.card-img {
+  background-color: transparent;
+  border: 0pt;
+  padding-top: 25pt;
+}
+
+.cityscapes-downtown {
+  height: 220px;
+}
+
+.form,
+textarea {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12pt;
+  height: 200pt;
+  width: 100%;
+  border: 0pt;
+  font-weight: 500;
+  background-color: #e1e1e1;
+  color: #9797a0;
+}
+
+textarea {
+  overflow: hidden;
+  resize: vertical;
+}
+
+.flex {
+  justify-items: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15pt;
+}
+
+.btn {
+  background-color: rgba(106, 91, 225, 1);
+  color: white;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+}
+
+.p {
+  color: rgba(106, 91, 225, 1);
+  font-family: "Montserrat", sans-serif;
+}
+
+.mask-group {
+  height: 80px;
+}
+
+.text {
+  margin-top: 10pt;
+}
+
+.flex-row {
+  margin-bottom: 15pt;
+}
+
+.check-1 {
+  max-width: 50%;
+}
